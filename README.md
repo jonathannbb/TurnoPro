@@ -1,2 +1,3 @@
 # TurnPro
-Proyect for get enhancing my SpringBoot, Java and React habilities.
+Appointment Management System
+A web application that allows a business to manage its services, view schedules, and manage customer appointments.
